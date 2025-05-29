@@ -40,7 +40,7 @@ A responsive React + Express web application that fetches and displays upcoming 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/soccer-match-viewer.git
+git clone https://github.com/ShivPandey5677/SportsOrca_UpcomingMatches.git
 cd soccer-match-viewer
 ```
 
