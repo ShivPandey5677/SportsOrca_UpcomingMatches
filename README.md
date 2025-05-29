@@ -41,7 +41,6 @@ A responsive React + Express web application that fetches and displays upcoming 
 
 ```bash
 git clone https://github.com/ShivPandey5677/SportsOrca_UpcomingMatches.git
-cd soccer-match-viewer
 ```
 
 ### 2. Install backend dependencies
